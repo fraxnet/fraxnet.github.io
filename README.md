@@ -1,4 +1,6 @@
 ```md
+<link rel="stylesheet" href="styles.css">
+
 <div class="page">
 
   <div class="utility-bar">
