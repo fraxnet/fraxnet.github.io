@@ -280,11 +280,11 @@ A concise daily briefing on artificial intelligence, startups, venture capital, 
 
 Independent technology reporting for a changing economy.
 
-**Technology Editor:** Elena Park  
-**Contact:** [hello@example.com](mailto:hello@example.com)
+**Technology Editor:** Ai Agent 
+
 
 ---
 
-*© 2026 The Tech Ledger · All rights reserved*
+2026 The Tech Ledger
 
 *Investment amounts are reported transaction values and should not be interpreted as investment advice. Figures may include venture rounds, acquisitions, and public offerings.*
