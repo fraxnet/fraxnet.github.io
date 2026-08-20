@@ -1,206 +1,126 @@
-```md
-<link rel="stylesheet" href="styles.css">
+---
+layout: default
+title: The Ledger
+---
 
-<div class="page">
+# THE LEDGER
 
-  <div class="utility-bar">
-    <div>Monday, August 21, 2026 · Vol. 01, No. 01</div>
-    <div class="utility-links">
-      <a href="#newsletter">Subscribe</a>
-      <a href="#about">About</a>
-    </div>
-  </div>
+*News · Markets · Ideas*
 
-  <header class="masthead">
-    <div class="edition">
-      Morning Edition
-      <span>Independent business reporting</span>
-    </div>
+**Monday, August 21, 2026**  
+*Morning Edition · Vol. 01, No. 01*
 
-    <div class="logo">
-      THE LEDGER
-      <small>News · Markets · Ideas</small>
-    </div>
+---
 
-    <div class="market-status">
-      Market open<br>
-      <strong>▲ Sentiment positive</strong>
-    </div>
-  </header>
+**NEWS ALERT:** Markets look beyond short-term uncertainty as long-term investment returns to the center of the conversation.
 
-  <nav class="navigation">
-    <a href="#top-story">Top Story</a>
-    <a href="#markets">Markets</a>
-    <a href="#business">Business</a>
-    <a href="#ideas">Ideas</a>
-    <a href="#briefing">Briefing</a>
-    <a href="#newsletter">Newsletter</a>
-  </nav>
+[Top Story](#top-story) · [Markets](#markets) · [Business](#business) · [Ideas](#ideas) · [Briefing](#the-briefing)
 
-  <div class="news-ticker">
-    <b>News Alert</b>
-    <span>Markets look beyond short-term uncertainty as long-term investment returns to the center of the conversation.</span>
-  </div>
+---
 
-  <main id="top-story">
+## The Big Read
 
-    <div class="main-grid">
+# The New Business Cycle Is Being Built in Plain Sight
 
-      <article class="lead-story">
-        <div class="section-label">The Big Read</div>
-        <h1>The New Business Cycle Is Being Built in Plain Sight</h1>
+*Companies are trading speed for resilience, investors are rewarding discipline, and a quieter economic transformation is gathering force.*
 
-        <p class="deck">
-          Companies are trading speed for resilience, investors are rewarding
-          discipline, and a quieter economic transformation is gathering force.
-        </p>
+**By Morgan Ellis · Senior Correspondent**
 
-        <div class="byline">
-          By Morgan Ellis · Senior Correspondent
-        </div>
-      </article>
+---
 
-      <aside class="briefing" id="briefing">
-        <div class="section-label">The Briefing</div>
-        <h2>Five Things Moving Markets</h2>
+## The Briefing
 
-        <div class="brief-item">
-          <h3>Capital gets selective</h3>
-          <p>Investors are asking harder questions about durable margins and cash flow.</p>
-        </div>
+### Five Things Moving Markets
 
-        <div class="brief-item">
-          <h3>Efficiency becomes strategy</h3>
-          <p>Operational discipline is no longer a back-office concern.</p>
-        </div>
+#### Capital Gets Selective
 
-        <div class="brief-item">
-          <h3>The local advantage</h3>
-          <p>Smaller companies are finding strength in specialized markets.</p>
-        </div>
+Investors are asking harder questions about durable margins and cash flow.
 
-        <div class="brief-item">
-          <h3>Leadership under review</h3>
-          <p>Boards increasingly value clarity over grand promises.</p>
-        </div>
-      </aside>
+#### Efficiency Becomes Strategy
 
-    </div>
+Operational discipline is no longer a back-office concern.
 
-    <section class="article-section" id="business">
-      <div class="section-label">Analysis</div>
-      <h2>A More Measured Kind of Growth</h2>
+#### The Local Advantage
 
-      <div class="article-columns">
-        <p>
-          For much of the past decade, growth was treated as a race. Businesses
-          expanded quickly, entered new markets, and used scale as a substitute
-          for certainty. Today, the most consequential decisions are often less
-          visible: a redesigned supply chain, a narrower product portfolio, or
-          a renewed focus on the customer who already exists.
-        </p>
+Smaller companies are finding strength in specialized markets.
 
-        <p>
-          That shift has changed the language of corporate planning. Resilience,
-          productivity, and quality of earnings have moved from footnotes to
-          headlines. The strongest operators are not necessarily the loudest.
-          They are the ones able to turn uncertainty into a series of manageable
-          decisions.
-        </p>
+#### Leadership Under Review
 
-        <p>
-          The result is a business environment that may feel slower while
-          becoming stronger underneath. New companies are emerging around
-          focused expertise, established companies are rebuilding trust through
-          consistency, and investors are distinguishing between momentum that
-          lasts and momentum that merely looks impressive.
-        </p>
-      </div>
-    </section>
+Boards increasingly value clarity over grand promises.
 
-    <section class="market-panel" id="markets">
-      <div class="section-label">Market Snapshot</div>
-      <h2>At a Glance</h2>
+---
 
-      <div class="market-grid">
-        <div class="market-card">
-          <span>Industrial Average</span>
-          <strong>38,742.18</strong>
-          <div class="up">▲ 1.24%</div>
-        </div>
+## Analysis
 
-        <div class="market-card">
-          <span>Technology Index</span>
-          <strong>17,608.44</strong>
-          <div class="up">▲ 0.86%</div>
-        </div>
+# A More Measured Kind of Growth
 
-        <div class="market-card">
-          <span>10-Year Yield</span>
-          <strong>4.08%</strong>
-          <div class="down">▼ 0.06</div>
-        </div>
+For much of the past decade, growth was treated as a race. Businesses expanded quickly, entered new markets, and used scale as a substitute for certainty.
 
-        <div class="market-card">
-          <span>Dollar Basket</span>
-          <strong>103.72</strong>
-          <div class="up">▲ 0.18%</div>
-        </div>
-      </div>
-    </section>
+Today, the most consequential decisions are often less visible: a redesigned supply chain, a narrower product portfolio, or a renewed focus on the customer who already exists.
 
-    <section class="opinion-grid" id="ideas">
+That shift has changed the language of corporate planning. Resilience, productivity, and quality of earnings have moved from footnotes to headlines.
 
-      <article class="opinion-card">
-        <div class="section-label">Editorial</div>
-        <h2>What Durable Companies Understand</h2>
-        <p>
-          The best businesses do not eliminate uncertainty. They build systems
-          that allow people to make good decisions when certainty is unavailable.
-        </p>
-      </article>
+The strongest operators are not necessarily the loudest. They are the ones able to turn uncertainty into a series of manageable decisions.
 
-      <article class="opinion-card">
-        <div class="section-label">Column</div>
-        <h3>The Case for Boring Innovation</h3>
-        <p>
-          The next major productivity gains may come from improvements few
-          customers ever notice.
-        </p>
-      </article>
+The result is a business environment that may feel slower while becoming stronger underneath.
 
-      <article class="opinion-card">
-        <div class="section-label">Notebook</div>
-        <h3>Three Questions for Every Founder</h3>
-        <p>
-          What compounds? What breaks? What remains valuable when the forecast
-          is wrong?
-        </p>
-      </article>
+New companies are emerging around focused expertise, established companies are rebuilding trust through consistency, and investors are distinguishing between momentum that lasts and momentum that merely looks impressive.
 
-    </section>
+---
 
-    <section class="newsletter" id="newsletter">
-      <div>
-        <h2>Start the day informed.</h2>
-        <p>
-          A concise morning briefing on business, markets, and the ideas shaping
-          the economy.
-        </p>
-      </div>
+## Market Snapshot
 
-      <a href="mailto:hello@example.com?subject=Subscribe%20to%20The%20Ledger">
-        Subscribe Free
-      </a>
-    </section>
+| Index | Latest | Change |
+|---|---:|---:|
+| Industrial Average | 38,742.18 | ▲ 1.24% |
+| Technology Index | 17,608.44 | ▲ 0.86% |
+| 10-Year Yield | 4.08% | ▼ 0.06 |
+| Dollar Basket | 103.72 | ▲ 0.18% |
 
-  </main>
+---
 
-  <footer id="about">
-    <span>© 2026 The Ledger</span>
-    <span>Independent reporting for a changing economy</span>
-    <span><a href="mailto:hello@example.com">Contact the newsroom</a></span>
-  </footer>
+## Opinion
 
-</div>
-```
+### What Durable Companies Understand
+
+The best businesses do not eliminate uncertainty. They build systems that allow people to make good decisions when certainty is unavailable.
+
+---
+
+### The Case for Boring Innovation
+
+The next major productivity gains may come from improvements few customers ever notice.
+
+---
+
+### Three Questions for Every Founder
+
+1. What compounds?
+2. What breaks?
+3. What remains valuable when the forecast is wrong?
+
+---
+
+## Business Notebook
+
+> “The companies that endure are rarely those with the most dramatic promises. They are the companies that consistently deliver what they said they would.”
+
+---
+
+## Morning Briefing
+
+A concise briefing on business, markets, and the ideas shaping the economy.
+
+[Subscribe Free](mailto:hello@example.com?subject=Subscribe%20to%20The%20Ledger)
+
+---
+
+## About The Ledger
+
+Independent reporting for a changing economy.
+
+**Contact:** [hello@example.com](mailto:hello@example.com)
+
+---
+
+*© 2026 The Ledger · All rights reserved*
